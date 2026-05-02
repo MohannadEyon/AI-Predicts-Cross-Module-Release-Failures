@@ -207,7 +207,7 @@ Jenkins will:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 your-repo/
@@ -222,7 +222,7 @@ your-repo/
 
 ---
 
-## 🔐 Security Notes
+## Security Notes
 
 - **Never commit API keys or tokens** directly in code. Always use Jenkins Credentials.
 - Ngrok tunnels expose your local machine — use a **static domain** and restrict access if possible.
@@ -230,7 +230,7 @@ your-repo/
 
 ---
 
-## 🧠 How the AI Analysis Works
+## How the AI Analysis Works?
 
 The `impact_analyzer.ts` script:
 
